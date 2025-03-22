@@ -6,11 +6,11 @@ Ce projet a été créé dans le cadre de l'UV IF3B en 1ere anné de prépa inte
 
 Plus de détails sont disponibles dans notre diaporama de compte rendu : "Projet Arduino - Groupe 4 : Panneau Solaire".
 
-### Language : 
+### Langage : 
 
 Technologie du projet : arduino, Node-red
 
-###⚠️ Note
+### ⚠️ Note
 
 Ce dépôt ne contient pas l'intégralité du code source.
 
