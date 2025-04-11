@@ -2,7 +2,7 @@
 
 ### Description
 
-Ce projet a été créé dans le cadre de l'UV IF3B en 1ere anné de prépa integrer à l'utbm. Ce projet avait pour objectif de concevoir et de contrôler un système de panneau solaire capable de s'incliner et de s'orienter automatiquement en fonction de la source lumineuse. Cette approche permet d'optimiser la production d'énergie en maximisant l'exposition aux rayons lumineux. Dans un premier temps, nous avons maquetté le système en utilisant la découpe laser pour le bois et l'impression 3D pour certains éléments, avant d'ajouter les composants Arduino. Ensuite, nous avons développé le programme Arduino et utilisé Node-RED pour contrôler la maquette à distance et obtenir des informations en temps réel.
+Ce projet a été créé dans le cadre de l'UV IF3B en 1ere année de prépa integrée à l'UTBM. Ce projet avait pour objectif de concevoir et de contrôler un système de panneau solaire capable de s'incliner et de s'orienter automatiquement en fonction de la source lumineuse. Cette approche permet d'optimiser la production d'énergie en maximisant l'exposition aux rayons lumineux. Dans un premier temps, nous avons maquetté le système en utilisant la découpe laser pour le bois et l'impression 3D pour certains éléments, avant d'ajouter les composants Arduino. Ensuite, nous avons développé le programme Arduino et utilisé Node-RED pour contrôler la maquette à distance et obtenir des informations en temps réel.
 
 Plus de détails sont disponibles dans notre diaporama de compte rendu : "Projet Arduino - Groupe 4 : Panneau Solaire".
 
